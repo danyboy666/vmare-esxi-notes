@@ -1,0 +1,2 @@
+ovftool.exe -ds=LocalESXiF vi://root@192.168.1.15/DSL vi://root@192.168.1.16
+
